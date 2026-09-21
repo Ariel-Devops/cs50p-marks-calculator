@@ -2,7 +2,7 @@
 
 A small Python program that calculates the average of your marks, shows your best and worst subjects, and gives you a grade.
 
-Made while learning **CS50P (Harvard's Introduction to Programming with Python)**, after Lecture 2 on loops. This is a personal practice project, not a CS50 problem set solution.
+Made for **CS50P Week 2 (Loops)**: a personal practice project built while learning Harvard's Introduction to Programming with Python. This is not a CS50 problem set solution.
 
 ## What it does
 
